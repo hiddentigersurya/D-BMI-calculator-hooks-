@@ -1,4 +1,4 @@
-# Effect Hook | Part 2
+# useEffect Hook 
 
 - Persisting Application data
   - Local Storage
